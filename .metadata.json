@@ -1,0 +1,94 @@
+[
+  {
+    "package": "DiallelAnalysisR",
+    "oncran": true
+  },
+  {
+    "package": "dmai",
+    "oncran": true
+  },
+  {
+    "package": "eda4treeR",
+    "oncran": true
+  },
+  {
+    "package": "gvcR",
+    "oncran": true
+  },
+  {
+    "package": "PakPC2017",
+    "oncran": true
+  },
+  {
+    "package": "PakPMICS2014Ch",
+    "oncran": true
+  },
+  {
+    "package": "PakPMICS2014HH",
+    "oncran": true
+  },
+  {
+    "package": "PakPMICS2014HL",
+    "oncran": true
+  },
+  {
+    "package": "PakPMICS2014Wm",
+    "oncran": true
+  },
+  {
+    "package": "PakPMICS2018",
+    "oncran": true
+  },
+  {
+    "package": "PakPMICS2018bh",
+    "oncran": true
+  },
+  {
+    "package": "PakPMICS2018fs",
+    "oncran": true
+  },
+  {
+    "package": "PakPMICS2018hh",
+    "oncran": true
+  },
+  {
+    "package": "PakPMICS2018mm",
+    "oncran": true
+  },
+  {
+    "package": "PakPMICS2018mn",
+    "oncran": true
+  },
+  {
+    "package": "ppcSpatial",
+    "oncran": true
+  },
+  {
+    "package": "PSLM2015",
+    "oncran": true
+  },
+  {
+    "package": "qccrs",
+    "oncran": true
+  },
+  {
+    "package": "rgsp",
+    "oncran": true
+  },
+  {
+    "package": "stability",
+    "oncran": true
+  },
+  {
+    "package": "StroupGLMM",
+    "oncran": true
+  },
+  {
+    "package": "SupMZ",
+    "oncran": true
+  },
+  {
+    "package": "VetResearchLMM",
+    "oncran": true
+  }
+]
