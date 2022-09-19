@@ -1,13 +1,5 @@
 [
   {
-    "package": "DiallelAnalysisR",
-    "oncran": true
-  },
-  {
-    "package": "dmai",
-    "oncran": true
-  },
-  {
     "package": "eda4treeR",
     "oncran": true
   },

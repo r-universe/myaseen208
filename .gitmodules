@@ -3,16 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "DiallelAnalysisR"]
-	path = DiallelAnalysisR
-	url = https://github.com/myaseen208/diallelanalysisr
-	shallow = true
-	registered = true
-[submodule "dmai"]
-	path = dmai
-	url = https://github.com/myaseen208/dmai
-	shallow = true
-	registered = true
 [submodule "eda4treeR"]
 	path = eda4treeR
 	url = https://github.com/myaseen208/eda4treer
