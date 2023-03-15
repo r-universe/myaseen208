@@ -3,6 +3,16 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bayesammi"]
+	path = bayesammi
+	url = https://github.com/myaseen208/bayesammi
+	shallow = true
+	registered = true
+[submodule "baystability"]
+	path = baystability
+	url = https://github.com/myaseen208/baystability
+	shallow = true
+	registered = true
 [submodule "DiallelAnalysisR"]
 	path = DiallelAnalysisR
 	url = https://github.com/myaseen208/diallelanalysisr

@@ -1,5 +1,13 @@
 [
   {
+    "package": "bayesammi",
+    "oncran": true
+  },
+  {
+    "package": "baystability",
+    "oncran": true
+  },
+  {
     "package": "DiallelAnalysisR",
     "oncran": true
   },
