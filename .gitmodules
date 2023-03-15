@@ -3,49 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "DiallelAnalysisR"]
-	path = DiallelAnalysisR
-	url = https://github.com/myaseen208/diallelanalysisr
-	shallow = true
-	registered = true
-[submodule "dmai"]
-	path = dmai
-	url = https://github.com/myaseen208/dmai
-	shallow = true
-	registered = true
-[submodule "eda4treeR"]
-	path = eda4treeR
-	url = https://github.com/myaseen208/eda4treer
-	shallow = true
-	registered = true
-[submodule "gvcR"]
-	path = gvcR
-	url = https://github.com/myaseen208/gvcr
-	shallow = true
-	registered = true
-[submodule "PakPC2017"]
-	path = PakPC2017
-	url = https://github.com/myaseen208/pakpc2017
-	shallow = true
-	registered = true
 [submodule "PakPMICS2014Ch"]
 	path = PakPMICS2014Ch
 	url = https://github.com/myaseen208/pakpmics2014ch
-	shallow = true
-	registered = true
-[submodule "PakPMICS2014HH"]
-	path = PakPMICS2014HH
-	url = https://github.com/myaseen208/pakpmics2014hh
-	shallow = true
-	registered = true
-[submodule "PakPMICS2014HL"]
-	path = PakPMICS2014HL
-	url = https://github.com/myaseen208/pakpmics2014hl
-	shallow = true
-	registered = true
-[submodule "PakPMICS2014Wm"]
-	path = PakPMICS2014Wm
-	url = https://github.com/myaseen208/pakpmics2014wm
 	shallow = true
 	registered = true
 [submodule "PakPMICS2018"]
@@ -58,39 +18,9 @@
 	url = https://github.com/myaseen208/pakpmics2018bh
 	shallow = true
 	registered = true
-[submodule "PakPMICS2018fs"]
-	path = PakPMICS2018fs
-	url = https://github.com/myaseen208/pakpmics2018fs
-	shallow = true
-	registered = true
-[submodule "PakPMICS2018hh"]
-	path = PakPMICS2018hh
-	url = https://github.com/myaseen208/pakpmics2018hh
-	shallow = true
-	registered = true
-[submodule "PakPMICS2018mm"]
-	path = PakPMICS2018mm
-	url = https://github.com/myaseen208/pakpmics2018mm
-	shallow = true
-	registered = true
-[submodule "PakPMICS2018mn"]
-	path = PakPMICS2018mn
-	url = https://github.com/myaseen208/pakpmics2018mn
-	shallow = true
-	registered = true
-[submodule "ppcSpatial"]
-	path = ppcSpatial
-	url = https://github.com/myaseen208/ppcspatial
-	shallow = true
-	registered = true
-[submodule "PSLM2015"]
-	path = PSLM2015
-	url = https://github.com/myaseen208/pslm2015
-	shallow = true
-	registered = true
-[submodule "qccrs"]
-	path = qccrs
-	url = https://github.com/myaseen208/qccrs
+[submodule "SupMZ"]
+	path = SupMZ
+	url = https://github.com/myaseen208/supmz
 	shallow = true
 	registered = true
 [submodule "rgsp"]
@@ -103,18 +33,88 @@
 	url = https://github.com/myaseen208/stability
 	shallow = true
 	registered = true
+[submodule "DiallelAnalysisR"]
+	path = DiallelAnalysisR
+	url = https://github.com/myaseen208/diallelanalysisr
+	shallow = true
+	registered = true
+[submodule "PakPMICS2018mn"]
+	path = PakPMICS2018mn
+	url = https://github.com/myaseen208/pakpmics2018mn
+	shallow = true
+	registered = true
+[submodule "PakPMICS2014HL"]
+	path = PakPMICS2014HL
+	url = https://github.com/myaseen208/pakpmics2014hl
+	shallow = true
+	registered = true
+[submodule "PSLM2015"]
+	path = PSLM2015
+	url = https://github.com/myaseen208/pslm2015
+	shallow = true
+	registered = true
+[submodule "PakPMICS2014Wm"]
+	path = PakPMICS2014Wm
+	url = https://github.com/myaseen208/pakpmics2014wm
+	shallow = true
+	registered = true
+[submodule "PakPMICS2018hh"]
+	path = PakPMICS2018hh
+	url = https://github.com/myaseen208/pakpmics2018hh
+	shallow = true
+	registered = true
+[submodule "eda4treeR"]
+	path = eda4treeR
+	url = https://github.com/myaseen208/eda4treer
+	shallow = true
+	registered = true
+[submodule "qccrs"]
+	path = qccrs
+	url = https://github.com/myaseen208/qccrs
+	shallow = true
+	registered = true
+[submodule "PakPMICS2018fs"]
+	path = PakPMICS2018fs
+	url = https://github.com/myaseen208/pakpmics2018fs
+	shallow = true
+	registered = true
+[submodule "ppcSpatial"]
+	path = ppcSpatial
+	url = https://github.com/myaseen208/ppcspatial
+	shallow = true
+	registered = true
+[submodule "PakPMICS2018mm"]
+	path = PakPMICS2018mm
+	url = https://github.com/myaseen208/pakpmics2018mm
+	shallow = true
+	registered = true
+[submodule "dmai"]
+	path = dmai
+	url = https://github.com/myaseen208/dmai
+	shallow = true
+	registered = true
+[submodule "PakPC2017"]
+	path = PakPC2017
+	url = https://github.com/myaseen208/pakpc2017
+	shallow = true
+	registered = true
+[submodule "gvcR"]
+	path = gvcR
+	url = https://github.com/myaseen208/gvcr
+	shallow = true
+	registered = true
 [submodule "StroupGLMM"]
 	path = StroupGLMM
 	url = https://github.com/myaseen208/stroupglmm
 	shallow = true
 	registered = true
-[submodule "SupMZ"]
-	path = SupMZ
-	url = https://github.com/myaseen208/supmz
-	shallow = true
-	registered = true
 [submodule "VetResearchLMM"]
 	path = VetResearchLMM
 	url = https://github.com/myaseen208/vetresearchlmm
+	shallow = true
+	registered = true
+[submodule "PakPMICS2014HH"]
+	path = PakPMICS2014HH
+	url = https://github.com/myaseen208/pakpmics2014hh
 	shallow = true
 	registered = true

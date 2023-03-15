@@ -1,38 +1,6 @@
 [
   {
-    "package": "DiallelAnalysisR",
-    "oncran": true
-  },
-  {
-    "package": "dmai",
-    "oncran": true
-  },
-  {
-    "package": "eda4treeR",
-    "oncran": true
-  },
-  {
-    "package": "gvcR",
-    "oncran": true
-  },
-  {
-    "package": "PakPC2017",
-    "oncran": true
-  },
-  {
     "package": "PakPMICS2014Ch",
-    "oncran": true
-  },
-  {
-    "package": "PakPMICS2014HH",
-    "oncran": true
-  },
-  {
-    "package": "PakPMICS2014HL",
-    "oncran": true
-  },
-  {
-    "package": "PakPMICS2014Wm",
     "oncran": true
   },
   {
@@ -44,31 +12,7 @@
     "oncran": true
   },
   {
-    "package": "PakPMICS2018fs",
-    "oncran": true
-  },
-  {
-    "package": "PakPMICS2018hh",
-    "oncran": true
-  },
-  {
-    "package": "PakPMICS2018mm",
-    "oncran": true
-  },
-  {
-    "package": "PakPMICS2018mn",
-    "oncran": true
-  },
-  {
-    "package": "ppcSpatial",
-    "oncran": true
-  },
-  {
-    "package": "PSLM2015",
-    "oncran": true
-  },
-  {
-    "package": "qccrs",
+    "package": "SupMZ",
     "oncran": true
   },
   {
@@ -80,15 +24,71 @@
     "oncran": true
   },
   {
+    "package": "DiallelAnalysisR",
+    "oncran": true
+  },
+  {
+    "package": "PakPMICS2018mn",
+    "oncran": true
+  },
+  {
+    "package": "PakPMICS2014HL",
+    "oncran": true
+  },
+  {
+    "package": "PSLM2015",
+    "oncran": true
+  },
+  {
+    "package": "PakPMICS2014Wm",
+    "oncran": true
+  },
+  {
+    "package": "PakPMICS2018hh",
+    "oncran": true
+  },
+  {
+    "package": "eda4treeR",
+    "oncran": true
+  },
+  {
+    "package": "qccrs",
+    "oncran": true
+  },
+  {
+    "package": "PakPMICS2018fs",
+    "oncran": true
+  },
+  {
+    "package": "ppcSpatial",
+    "oncran": true
+  },
+  {
+    "package": "PakPMICS2018mm",
+    "oncran": true
+  },
+  {
+    "package": "dmai",
+    "oncran": true
+  },
+  {
+    "package": "PakPC2017",
+    "oncran": true
+  },
+  {
+    "package": "gvcR",
+    "oncran": true
+  },
+  {
     "package": "StroupGLMM",
     "oncran": true
   },
   {
-    "package": "SupMZ",
+    "package": "VetResearchLMM",
     "oncran": true
   },
   {
-    "package": "VetResearchLMM",
+    "package": "PakPMICS2014HH",
     "oncran": true
   }
 ]
