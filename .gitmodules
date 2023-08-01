@@ -2,24 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bayesammi"]
-	path = bayesammi
-	url = https://github.com/myaseen208/bayesammi
-[submodule "baystability"]
-	path = baystability
-	url = https://github.com/myaseen208/baystability
 [submodule "DiallelAnalysisR"]
 	path = DiallelAnalysisR
 	url = https://github.com/myaseen208/diallelanalysisr
-[submodule "dmai"]
-	path = dmai
-	url = https://github.com/myaseen208/dmai
-[submodule "eda4treeR"]
-	path = eda4treeR
-	url = https://github.com/myaseen208/eda4treer
-[submodule "gvcR"]
-	path = gvcR
-	url = https://github.com/myaseen208/gvcr
+[submodule "PSLM2015"]
+	path = PSLM2015
+	url = https://github.com/myaseen208/pslm2015
 [submodule "PakPC2017"]
 	path = PakPC2017
 	url = https://github.com/myaseen208/pakpc2017
@@ -53,21 +41,6 @@
 [submodule "PakPMICS2018mn"]
 	path = PakPMICS2018mn
 	url = https://github.com/myaseen208/pakpmics2018mn
-[submodule "ppcSpatial"]
-	path = ppcSpatial
-	url = https://github.com/myaseen208/ppcspatial
-[submodule "PSLM2015"]
-	path = PSLM2015
-	url = https://github.com/myaseen208/pslm2015
-[submodule "qccrs"]
-	path = qccrs
-	url = https://github.com/myaseen208/qccrs
-[submodule "rgsp"]
-	path = rgsp
-	url = https://github.com/myaseen208/rgsp
-[submodule "stability"]
-	path = stability
-	url = https://github.com/myaseen208/stability
 [submodule "StroupGLMM"]
 	path = StroupGLMM
 	url = https://github.com/myaseen208/stroupglmm
@@ -77,3 +50,30 @@
 [submodule "VetResearchLMM"]
 	path = VetResearchLMM
 	url = https://github.com/myaseen208/vetresearchlmm
+[submodule "bayesammi"]
+	path = bayesammi
+	url = https://github.com/myaseen208/bayesammi
+[submodule "baystability"]
+	path = baystability
+	url = https://github.com/myaseen208/baystability
+[submodule "dmai"]
+	path = dmai
+	url = https://github.com/myaseen208/dmai
+[submodule "eda4treeR"]
+	path = eda4treeR
+	url = https://github.com/myaseen208/eda4treer
+[submodule "gvcR"]
+	path = gvcR
+	url = https://github.com/myaseen208/gvcr
+[submodule "ppcSpatial"]
+	path = ppcSpatial
+	url = https://github.com/myaseen208/ppcspatial
+[submodule "qccrs"]
+	path = qccrs
+	url = https://github.com/myaseen208/qccrs
+[submodule "rgsp"]
+	path = rgsp
+	url = https://github.com/myaseen208/rgsp
+[submodule "stability"]
+	path = stability
+	url = https://github.com/myaseen208/stability
