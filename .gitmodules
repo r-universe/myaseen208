@@ -11,6 +11,9 @@
 [submodule "PakPC2017"]
 	path = PakPC2017
 	url = https://github.com/myaseen208/pakpc2017
+[submodule "PakPC2023"]
+	path = PakPC2023
+	url = https://github.com/myaseen208/pakpc2023
 [submodule "PakPMICS2014Ch"]
 	path = PakPMICS2014Ch
 	url = https://github.com/myaseen208/pakpmics2014ch
