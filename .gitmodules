@@ -44,6 +44,9 @@
 [submodule "PakPMICS2018mn"]
 	path = PakPMICS2018mn
 	url = https://github.com/myaseen208/pakpmics2018mn
+[submodule "StabilityApp"]
+	path = StabilityApp
+	url = https://github.com/myaseen208/stabilityapp
 [submodule "StroupGLMM"]
 	path = StroupGLMM
 	url = https://github.com/myaseen208/stroupglmm
