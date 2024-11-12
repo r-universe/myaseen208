@@ -8,6 +8,12 @@
 [submodule "PSLM2015"]
 	path = PSLM2015
 	url = https://github.com/myaseen208/pslm2015
+[submodule "PakNAcc"]
+	path = PakNAcc
+	url = https://github.com/myaseen208/paknacc
+[submodule "PakPC"]
+	path = PakPC
+	url = https://github.com/myaseen208/pakpc
 [submodule "PakPC2017"]
 	path = PakPC2017
 	url = https://github.com/myaseen208/pakpc2017
