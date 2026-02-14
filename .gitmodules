@@ -77,6 +77,9 @@
 [submodule "gvcR"]
 	path = gvcR
 	url = https://github.com/myaseen208/gvcr
+[submodule "mhpfilter"]
+	path = mhpfilter
+	url = https://github.com/myaseen208/mhpfilter
 [submodule "ppcSpatial"]
 	path = ppcSpatial
 	url = https://github.com/myaseen208/ppcspatial
